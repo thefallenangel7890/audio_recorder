@@ -8,7 +8,7 @@ from datetime import datetime
 
 # 🛑 Replace with your own credentials (Use App Password instead of real password)
 EMAIL_SENDER = "thefallenangel7890@gmail.com"
-EMAIL_PASSWORD = "qyuc mnpv pglu ykdx"  # 🔹 Use App Password, NOT your real password
+EMAIL_PASSWORD = ""  # 🔹 Use App Password, NOT your real password
 EMAIL_RECEIVER = "thefallenangel7890@gmail.com"
 
 # SMTP Configuration
