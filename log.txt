@@ -1,0 +1,5 @@
+2025-02-21 15:24:28.971677 - Recorded: C:/recordings/2025-02-21_15-09-23.wav
+2025-02-21 15:24:51.405327 - Compressed to 28 kbps: C:/recordings/2025-02-21_15-09-23.mp3
+2025-02-21 15:25:16.914523 - Email sent: C:/recordings/2025-02-21_15-09-23.mp3
+2025-02-21 15:40:19.139022 - Recorded: C:/recordings/2025-02-21_15-25-16.wav
+2025-02-21 15:40:22.921305 - Compressed to 28 kbps: C:/recordings/2025-02-21_15-25-16.mp3
